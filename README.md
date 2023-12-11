@@ -1,2 +1,2 @@
 # APISpring
-API Spring JPA REST CRUD swagger
+Spring API JPA REST CRUD swagger
