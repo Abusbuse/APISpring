@@ -1,1 +1,14 @@
 services:
+  db:
+    image: mariadb
+    container_name: springapi-db
+    env_file:
+      - .env
+    volumes:
+      - db:/var/lib/mysql
+      - ./mysql/:/docker-entrypoint-initdb.d/
+    ports:
+      - ${MARIADB_PORT}:3306
+
+volumes:
+  db:
