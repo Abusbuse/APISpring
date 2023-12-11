@@ -1,7 +1,7 @@
 # R5.08 - Qualité de développement - Colle
 
-> Auteurs: Flavien MARCK & Grégory WITTMANN
-> Date: 11 décembre 2023
+> Auteurs: Flavien MARCK & Grégory WITTMANN \
+> Date: 11 décembre 2023 \
 > Version: 1.0
 
 ## 1. Introduction
